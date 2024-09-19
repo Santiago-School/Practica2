@@ -1,7 +1,9 @@
-# Practica2
-Santiago Carrasco 3 W
 
-print("Santiago Carrasco data types")
+print(" ")
+
+print("Santiago Carrasco data types, en el cuual se proporcionara el tipo de variable que es")
+
+print(" ")
 
 #definiendo las variables 
 
@@ -20,4 +22,5 @@ print(type(y))
 print(type(z))
 
 
-![image](https://github.com/user-attachments/assets/31a7e551-ed3a-4b2c-b031-85db912fd91f)
+
+![image](https://github.com/user-attachments/assets/8bf9bf65-fd01-4df5-9feb-cf5426c4ba57)
